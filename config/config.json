@@ -3,7 +3,7 @@
     {
       "name": "NuScenes",
       "sequences": [
-        "ONE"
+        "rosbag2_2021_05_24-07_48_15"
       ],
       "classes": [
         "human.pedestrian.adult",

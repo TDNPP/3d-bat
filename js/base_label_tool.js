@@ -8,7 +8,7 @@ let labelTool = {
     currentDatasetIdx: 0,
     sequence: "",
     pointCloudOnlyAnnotation: true,
-    numFramesNuScenes: 50,
+    numFramesNuScenes: 1000,
     numFramesProvidentia: 50,
     frameScreenshots: [],
     numFrames: 0,
